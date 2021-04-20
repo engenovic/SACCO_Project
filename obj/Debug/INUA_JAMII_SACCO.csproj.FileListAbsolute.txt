@@ -1,0 +1,133 @@
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe.config
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csprojResolveAssemblyReference.cache
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSplashScreen.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.Properties.Resources.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.GenerateResource.Cache
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.pdb
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.exe
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.pdb
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLogin.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.Shared.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\FlashControlV71.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\ShockwaveFlashObjects.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\stdole.dll
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmAccountantMain.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanOfficerMain.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanProcessing.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMemberRegistration.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSystemAdminMain.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmViewRecords.resources
+F:\application programming\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMainForm.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe.config
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.pdb
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\stdole.dll
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csprojAssemblyReference.cache
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmAccountantMain.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanOfficerMain.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanProcessing.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLogin.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMainForm.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMemberRegistration.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmViewRecords.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSplashScreen.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSystemAdminMain.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.Properties.Resources.resources
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.GenerateResource.cache
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.CoreCompileInputs.cache
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.CopyComplete
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.exe
+C:\Users\NGENO VICTOR\Downloads\NGENO\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.pdb
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe.config
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.pdb
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\stdole.dll
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmAccountantMain.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanOfficerMain.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanProcessing.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLogin.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMainForm.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMemberRegistration.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmViewRecords.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSplashScreen.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSystemAdminMain.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.Properties.Resources.resources
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.CopyComplete
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.exe
+C:\Users\User\Desktop\The Master Mind\LEDGER\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.pdb
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe.config
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.exe
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\INUA_JAMII_SACCO.pdb
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\bin\Debug\stdole.dll
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csprojAssemblyReference.cache
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmAccountantMain.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanOfficerMain.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLoanProcessing.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmLogin.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMainForm.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmMemberRegistration.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmViewRecords.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSplashScreen.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.frmSystemAdminMain.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.Properties.Resources.resources
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.GenerateResource.cache
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.csproj.CopyComplete
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.exe
+C:\Users\NGENO VICTOR\Desktop\PROJECT\NGENO VICTOR\IMPLEMENTATION\3. Develop\INUA_JAMII_SACCO\INUA_JAMII_SACCO\obj\Debug\INUA_JAMII_SACCO.pdb
